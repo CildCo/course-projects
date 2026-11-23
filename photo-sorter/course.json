@@ -1,0 +1,18 @@
+{
+  "id": "photo-sorter",
+  "title": "照片按日期归档",
+  "kind": "project",
+  "status": "published",
+  "categoryId": "tools",
+  "difficulty": "入门",
+  "lessonCount": 0,
+  "sourceDir": "source",
+  "runCommand": "python main.py",
+  "package": "dist/photo-sorter-source.zip",
+  "backendPackage": "backend/uploads/packages/photo-sorter.zip",
+  "verifiedAt": "2026-10-22",
+  "verifiedEnv": "Python 3.11 / Windows 11",
+  "article": "public-account/articles/photo-sorter.md",
+  "notes": "演示照片自动生成；run_all.py 覆盖 EXIF 读取、归档计划、移动、撤销和相册。",
+  "fileSize": 5194
+}

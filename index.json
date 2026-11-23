@@ -1,0 +1,27 @@
+{
+  "repo": "https://github.com/CildCo/course-projects",
+  "contentHash": "3fa8be594b34499f38baa206d2ab66f177ba1c7008c5f722f9d0ae6ab7acc7b7",
+  "courses": [
+    {
+      "id": "dedupe-cli",
+      "title": "重复文件清理器",
+      "kind": "project",
+      "path": "dedupe-cli",
+      "url": "https://github.com/CildCo/course-projects/tree/main/dedupe-cli"
+    },
+    {
+      "id": "photo-sorter",
+      "title": "照片按日期归档",
+      "kind": "project",
+      "path": "photo-sorter",
+      "url": "https://github.com/CildCo/course-projects/tree/main/photo-sorter"
+    },
+    {
+      "id": "safety-helmet-detection",
+      "title": "安全帽佩戴检测",
+      "kind": "project",
+      "path": "safety-helmet-detection",
+      "url": "https://github.com/CildCo/course-projects/tree/main/safety-helmet-detection"
+    }
+  ]
+}
