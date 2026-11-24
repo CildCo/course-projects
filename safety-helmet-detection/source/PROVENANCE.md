@@ -1,4 +1,4 @@
-# 来源与原创说明
+# 来源与示例说明
 
 - 思路来源：工地/厂区安全帽佩戴检查的重复劳动；参考了公开的 hard-hat 检测产品和数据集组织方式。
 - 数据集：`keremberke/hard-hat-detection`（Roboflow Universe Projects），许可证 CC BY 4.0；详见 `DATA.md`。

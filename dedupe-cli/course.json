@@ -2,17 +2,9 @@
   "id": "dedupe-cli",
   "title": "重复文件清理器",
   "kind": "project",
-  "status": "published",
   "categoryId": "tools",
   "difficulty": "入门",
-  "lessonCount": 0,
-  "sourceDir": "source",
   "runCommand": "python main.py",
-  "package": "dist/dedupe-cli-source.zip",
-  "backendPackage": "backend/uploads/packages/dedupe-cli.zip",
   "verifiedAt": "2026-10-21",
-  "verifiedEnv": "Python 3.11 / Windows 11",
-  "article": "public-account/articles/dedupe-cli.md",
-  "notes": "演示数据自动生成；run_all.py 覆盖完全重复、相似图片、隔离和撤销。",
-  "fileSize": 6176
+  "verifiedEnv": "Python 3.11 / Windows 11"
 }

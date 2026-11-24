@@ -1,6 +1,6 @@
 {
   "repo": "https://github.com/CildCo/course-projects",
-  "contentHash": "3fa8be594b34499f38baa206d2ab66f177ba1c7008c5f722f9d0ae6ab7acc7b7",
+  "contentHash": "30344d9ab23f458baed106cd3f986c6eacfa2e94b9ca49f61782d2f2e564d3e1",
   "courses": [
     {
       "id": "dedupe-cli",

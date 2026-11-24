@@ -2,23 +2,9 @@
   "id": "safety-helmet-detection",
   "title": "安全帽佩戴检测",
   "kind": "project",
-  "status": "published",
   "categoryId": "ai",
   "difficulty": "中级",
-  "lessonCount": 0,
-  "sourceDir": "source",
   "runCommand": "python run_all.py",
-  "includePaths": [
-    "models/helmet_ssdlite.pt",
-    "models/model_card.json",
-    "models/evaluation.json",
-    "sample_images/*"
-  ],
-  "package": "dist/safety-helmet-detection-source.zip",
-  "backendPackage": "backend/uploads/packages/safety-helmet-detection.zip",
   "verifiedAt": "2026-10-22",
-  "verifiedEnv": "Python 3.11 / Windows 11 / CPU",
-  "article": "public-account/articles/safety-helmet-detection.md",
-  "notes": "SSDLite320 在 CC BY 4.0 hard-hat 数据集上微调；模型 8.8MB；数据集 49MB 不打包；验证集 hardhat F1 0.427 / no-hardhat F1 0.580。",
-  "fileSize": 8987940
+  "verifiedEnv": "Python 3.11 / Windows 11 / CPU"
 }
